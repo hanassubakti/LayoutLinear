@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Who you are?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name_edit_text">your name</string>
+    <string name="question_text">Are you happy?</string>
+    <string name="answer_yes">yes</string>
+    <string name="hint_answer_yes">pick me</string>
+    <string name="answer_no">No</string>
+    <string name="hint_answer_no">kill you</string>
+
+</resources>

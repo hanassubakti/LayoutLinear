@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Siapa kammu sliramu?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name_edit_text">nama kamu</string>
+    <string name="question_text">apa kamu bahagia?</string>
+    <string name="answer_yes">ya</string>
+    <string name="hint_answer_yes">jemput aku</string>
+    <string name="answer_no">tidak</string>
+    <string name="hint_answer_no">kubunuh kamu</string>
+
+</resources>
